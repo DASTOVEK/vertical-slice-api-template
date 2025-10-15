@@ -1,0 +1,13 @@
+name: vertical-slice-api-template
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/45ecc73d-9a8c-4a1b-8a81-5db60a4a0c8b
+description: 🍰 An asp.net core template based on .Net 9, Vertical Slice Architecture, CQRS, Minimal APIs, OpenTelemetry, API Versioning and OpenAPI.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
